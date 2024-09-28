@@ -1,3 +1,5 @@
 /target/
 hello_cargo/target
 guessing_game/target
+guessing_game_advance/target
+variables_test/target
